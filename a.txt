@@ -17,6 +17,7 @@ taco
 juice
 water
 ginger beer
+sparkling
 
 # Deserts
 
