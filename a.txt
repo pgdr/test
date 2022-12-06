@@ -9,7 +9,6 @@ bread
 pizza
 hamberger
 pie
-meat balls
 taco
 
 # Drinks
